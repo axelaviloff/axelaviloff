@@ -4,7 +4,7 @@
 
 - Estou estudando Ciência da Computação na Universidade Federal da Fronteira Sul 📚.
 
-- Pergunte-me sobre Java, Spring Boot, Spring Batch, Estrutura de Dados 💬
+- Pergunte-me sobre Java, Spring Boot, Spring Batch, Estrutura de Dados 💬.
 
 ---
 
