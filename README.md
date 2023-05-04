@@ -1,16 +1,30 @@
-### Hi there 👋
+# **Axel Aviloff**
 
-<!--
-**axelaviloff/axelaviloff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Sou desenvolvedor back-end.
 
-Here are some ideas to get you started:
+- Estou estudando Ciência da Computação na Universidade Federal da Fronteira Sul.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+# 🧑‍💻 **Tecnologias**
+
+<br>
+
+ <div>
+  <a href="https://github.com/axelaviloff">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=axelaviloff&show_icons=true&theme=tokyonight&count_private=true"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axelaviloff&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
+---
+
+# 👣 **Próxios passos**
+
+- ❤️ Conecte-se comigo
+
+<a href="https://www.linkedin.com/in/axelaviloff/">
+		<img alt="LinkedIn" src="https://img.shields.io/badge/Axel%20Aviloff-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+	</a>
+
+---
